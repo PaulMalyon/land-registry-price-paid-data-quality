@@ -1,0 +1,17 @@
+Name,Table,Uniqueness,Unique Count,Completeness,Score,Row Count,Null Count,Format Count,Overall Datatype,Dominant Datatype,Minimum,Maximum,Precision,Scale,Minimum Length,Maximum Length,Total Sum
+Transaction Unique Identifier,Price Paid Full Data File (v1),100%,"21,456,045",100%,,"21,456,045",0,"19,678,984",Alphanumeric,Alphanumeric,{000000AC-478E-47B3-9B71-7C1E9BB1FEB8},{FFFFFE71-D9FC-4232-AD14-819C838EB3D6},0,0,38,38,
+Price,Price Paid Full Data File (v1),0.75%,"160,864",100%,,"21,456,045",0,8,Integer,Integer,1,98250000,8,0,1,8,"3,676,275,233,019"
+Date Of Transfer,Price Paid Full Data File (v1),0.04%,"7,850",100%,,"21,456,045",0,1,Date,Date,01-Jan-1995,30-Jun-2016,0,0,11,11,
+Postcode,Price Paid Full Data File (v1),5.57%,"1,195,778",99.9%,,"21,434,088","21,957",8,Alphanumeric,Alphanumeric,AL10 0AB,YO90 1WR,0,0,6,8,
+Property Type,Price Paid Full Data File (v1),0.01%,5,100%,,"21,456,045",0,1,Alphanumeric,Alphanumeric,D,T,0,0,1,1,
+Old New,Price Paid Full Data File (v1),0.01%,2,100%,,"21,456,045",0,1,Alphanumeric,Alphanumeric,N,Y,0,0,1,1,
+Duration,Price Paid Full Data File (v1),0.01%,3,100%,,"21,456,045",0,1,Alphanumeric,Alphanumeric,F,U,0,0,1,1,
+Paon,Price Paid Full Data File (v1),1.87%,"401,192",99.98%,,"21,451,795","4,250","12,909",Alphanumeric,Integer,-,ZYTEK HOUSE,4,2,1,85,"815,849,160.11"
+Saon,Price Paid Full Data File (v1),0.16%,"34,145",11.25%,,"2,414,870","19,041,175","3,720",Alphanumeric,Null,(ADAMS),ZONE B,4,2,1,45,"13,214,540.2"
+Street,Price Paid Full Data File (v1),1.4%,"299,570",98.53%,,"21,140,406","315,639","2,254",Alphanumeric,Alphanumeric,10TH AVENUE,ZYBURN COURT,2,0,2,50,16
+Locality,Price Paid Full Data File (v1),0.11%,"23,012",72.89%,,"15,640,088","5,815,957",638,Alphanumeric,Alphanumeric,ABBERLEY,ZOUCH,0,0,3,35,
+Town,Price Paid Full Data File (v1),0.01%,"1,170",100%,,"21,456,045",0,127,Alphanumeric,Alphanumeric,ABBOTS LANGLEY,YSTRAD MEURIG,0,0,3,22,
+District,Price Paid Full Data File (v1),0.01%,454,100%,,"21,456,045",0,113,Alphanumeric,Alphanumeric,ABERCONWY,YORK,0,0,4,38,
+County,Price Paid Full Data File (v1),0.01%,127,100%,,"21,456,045",0,51,Alphanumeric,Alphanumeric,AVON,YORK,0,0,4,28,
+Ppd Category Type,Price Paid Full Data File (v1),0.01%,2,100%,,"21,456,045",0,1,Alphanumeric,Alphanumeric,A,B,0,0,1,1,
+Record Status Monthly File Only,Price Paid Full Data File (v1),0.01%,1,100%,,"21,456,045",0,1,Alphanumeric,Alphanumeric,A,A,0,0,1,1,
